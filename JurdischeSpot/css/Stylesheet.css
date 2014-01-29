@@ -1,0 +1,364 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(../images/achtergrond.jpg);
+	background-repeat: repeat-x;
+	background-color: #91cfe0;
+	font-family: Verdana, Geneva, sans-serif;
+}
+#mainwrapper {
+	width: 948px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	height: 111px;
+	width: 948px;
+}
+#headerlinks {
+	background-image: url(../images/headerlinks.jpg);
+	width: 324px;
+	height: 111px;
+	float: left;
+}
+#headerrechts {
+	background-image: url(../images/headerrechts.jpg);
+	height: 111px;
+	float: left;
+	width: 609px;
+	padding-left: 15px;
+}
+#headerrechtsbuffer {
+	height: 60px;
+}
+
+
+#headerrechts ul{
+font-size: 9px;
+margin: 0; 
+padding: 0;
+list-style-type: none;
+
+}
+
+#headerrechts a{
+	display: block;
+	font-size: 9px;
+	height: 23px;
+	background: #09135d;
+	text-decoration: none; /*lets remove the link underlines*/
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	float: left;
+	padding-top: 5px;
+	padding-right: 7px;
+	padding-left: 7px;
+	font-size: 13px;
+	font-weight: bold;
+	margin-right: 3px;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+} 
+
+#headerrechts a:link, #headerrechts a:active, #headerrechts a:visited {
+color: #FFF;
+}
+
+#headerrechts a:hover {
+background: #63c5e1;
+color: #FFF;
+}
+
+#strook {
+	background-color: #63C5E2;
+	height: 10px;
+	font-size: 0px;
+	background-image: url(../images/background8.jpg);
+}
+#onderheader {
+	height: 212px;
+}
+#onderheaderlinks   {
+	height: 212px;
+	width: 324px;
+	background-image: url(../images/login.jpg);
+}
+#onderheaderrechts   {
+	width: 624px;
+	height: 182px;
+	float: left;
+	background-image: url(../images/background2.jpg);
+	background-repeat: no-repeat;
+	padding-top: 15px;
+}
+#bloklinks    {
+	height: 182px;
+	width: 297px;
+	float: left;
+}
+#blokstrook    {
+	height: 15px;
+}
+#blokbuffer    {
+	width: 15px;
+	height: 182px;
+	float: left;
+}
+#blokrechts    {
+	float: left;
+	height: 182px;
+	width: 297px;
+}
+#tekstwrapper {
+	height: 782px;
+}
+#tekstwrapperlinks  {
+	width: 324px;
+	float: left;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	font-weight: bold;
+	height: 782px;
+}
+#linksboven    {
+	height: 320px;
+	padding-left: 40px;
+	background-color: #9BD8EB;
+}
+#linksboven a:link {
+	color: #0A135E;
+}
+#linksboven a:visited {
+	color: #0A135E;
+}
+#linksbovena :hover {
+	color: #0A135E;
+}
+#linksboven a:active {
+	color: #0A135E;
+}
+#formulierblok {
+	height: 690px;
+	background-color: #B8DBE2;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	border: 1px solid #FFF;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	background-repeat: no-repeat;
+	color: #0A135E;
+}
+#formulierblok2 {
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #0A135E;
+	font-size: 12px;
+	line-height: 14px;
+	background-color: #B8DBE2;
+	border: 1px solid #FFF;
+	height: 490px;
+}
+
+#formulierblokheader {
+	height: 198px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #F00;
+}
+
+#linksonder {
+	height: 250px;
+	padding-left: 40px;
+	background-color: #09135E;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+}
+#tekstwrapperrechts {
+	width: 424px;
+	float: left;
+	height: 585px;
+	background-image: url(../images/background3.jpg);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+}
+#tekstwrapperrechts2 {
+	width: 424px;
+	float: left;
+	height: 782px;
+	background-image: url(../images/background9.jpg);
+	background-repeat: no-repeat;
+	padding-left: 15px;
+}
+#indexbalk {
+	height: 20px;
+	padding-top: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	color: #09135E;
+	text-align: center;
+	font-weight: bold;
+}
+
+#teksthead {
+	height: 28px;
+	background-color: #FFF;
+	border: 1px solid #FFF;
+	padding-top: 15px;
+}
+#kop {
+	background-color: #09135E;
+}
+#blokitem    {
+	height: 140px;
+	background-color: #9BD8EB;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	border: 1px solid #FFF;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	color: #09135E;
+}
+#kop {
+	padding-top: 4px;
+	padding-left: 25px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	height: 24px;
+	font-weight: bold;
+}
+#blokitem2 {
+	height: 140px;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	border: 1px solid #FFF;
+	background-color: #B8DBE2;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #09135E;
+}
+#advertentiebalk {
+	float: left;
+	width: 170px;
+	height: 570px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+#advertentieblokje {
+	height: 546px;
+	width: 170px;
+}
+#footer {
+	background-image: url(../images/background6.jpg);
+	height: 160px;
+}
+#footermidden {
+	height: 160px;
+	width: 948px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/background7.jpg);
+	background-repeat: no-repeat;
+}
+#footerlinks {
+	float: left;
+	height: 70px;
+	width: 284px;
+	padding-top: 80px;
+	padding-left: 40px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	line-height: 14px;
+}
+#footerrechts {
+	float: left;
+	height: 145px;
+	width: 275px;
+	padding-left: 37px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	padding-top: 15px;
+	color: #FFF;
+	line-height: 14px;
+}
+.koptekst {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	line-height: 14px;
+	color: #09135E;
+	font-weight: bold;
+}
+.normaletekst {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	color: #333;
+}
+.blauwetekst {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #09135E;
+}
+.kopwit {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #FFF;
+}
+a:link {
+	color: #FFF;
+}
+a:visited {
+	color: #FFF;
+}
+a:hover {
+	color: #FFF;
+}
+a:active {
+	color: #FFF;
+}
+#menuwrapper {
+	height: 50px;
+	padding-top: 16px;
+}
+#menuwrapper ul {
+}
+p.abovelist {
+	margin-bottom:0px;
+} 
+
+.vettetekst {
+	font-weight: bold;
+}
+
+
+#regadvocaat {
+	height: 300px;
+	background-color: #9BD8EB;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	border: 1px solid #FFF;
+	padding-top: 15px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+	color: #09135E;
+}
