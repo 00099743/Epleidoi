@@ -202,19 +202,19 @@ en&nbsp;verzekeringsrecht</a> <span class="blauwetekst">(0)</span></td>
     <div id="linksonder">
   <br />
       
-  <a href="<?php echo site_url("Advocatengids"); ?>">Advocatengids</a><br />
+  <a href="index.php">Advocatengids</a><br />
       
-  <a href="<?php echo site_url("Rechtbankengids"); ?>">Rechtbankengids</a><br />
+  <a href="index.php">Rechtbankengids</a><br />
   
-  <a href="<?php echo site_url("Begrippenlijst"); ?>">Begrippenlijst</a><br />
+  <a href="index.php">Begrippenlijst</a><br />
  
-  <a href="<?php echo site_url("Personeel"); ?>">Personeel gevraagd</a><br />
+  <a href="index.php">Personeel gevraagd</a><br />
   
-  <a href="<?php echo site_url("Adverteren"); ?>">Adverteren op Epleidooi.nl</a><br />
+  <a href="index.php">Adverteren op Epleidooi.nl</a><br />
       
-  <a href="<?php echo site_url("FAQ"); ?>">Veel gestelde vragen</a><br />
+  <a href="index.php">Veel gestelde vragen</a><br />
       
-  <a href="<?php echo site_url("Contact"); ?>">Contact</a></div>
+  <a href="index.php">Contact</a></div>
     </div>
   
 <div id="onderheaderrechts">
@@ -254,16 +254,16 @@ en&nbsp;verzekeringsrecht</a> <span class="blauwetekst">(0)</span></td>
   <div id="footermidden">
     <div id="footerlinks">Copyright © 2010 Epleidooi. All rights reserved. <br />
     Created by <a href="http://www.creative-design.nl/" target="_blank">Creative Design</a>.</div>
-    <div id="footerrechts"><a href="<?php echo site_url("Test"); ?>">Home</a><br />
-        <a href="<?php echo site_url("Hoe_het_werkt"); ?>">Hoe het werkt</a><br />
-        <a href="<?php echo site_url("Zaak_plaatsen"); ?>">Opdracht plaasten</a><br />
-        <a href="<?php echo site_url("Register_Advocaat"); ?>">Inschrijving advocaat</a><br />
-        <a href="<?php echo site_url("Adverteren"); ?>">Adverteren op ipleidooi.nl</a><br />
-        <a href="<?php echo site_url("FAQ"); ?>">Veel gestelde vragen</a><br />
-        <a href="<?php echo site_url("Contact"); ?>">Contact</a></div>
-      <div id="footerrechts"><a href="<?php echo site_url("Disclaimer"); ?>">Disclaimer</a><br />
-          <a href="<?php echo site_url("Privacy_verklaring"); ?>">Privacyverklaring</a><br />
-          <a href="<?php echo site_url("Algemene_voorwaarden"); ?>">Algemene voorwaarden</a></div>
+    <div id="footerrechts"><a href="index.php">Home</a><br />
+      Hoe het werkt<br />
+      Opdracht plaasten<br />
+      Inschriijving advocaat<br />
+      Adverteren op ipleidooi.nl<br />
+      Veel gestelde vragen<br />
+    Contact</div>
+    <div id="footerrechts">Disclaimer<br />
+      Privacyverklaring<br />
+    Algemene voorwaarden</div>
   </div>
 </div>
 </body>

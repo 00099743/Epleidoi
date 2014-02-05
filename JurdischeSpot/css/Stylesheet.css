@@ -88,7 +88,7 @@ color: #FFF;
 #onderheaderlinks   {
 	height: 212px;
 	width: 324px;
-	background-image: url(../images/login.jpg);
+/*	background-image: url(../images/login.jpg);*/
 }
 #onderheaderrechts   {
 	width: 624px;
@@ -315,6 +315,10 @@ color: #FFF;
 .blauwetekst {
 	font-family: Verdana, Geneva, sans-serif;
 	color: #09135E;
+}
+.blacktekst {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000000;
 }
 .kopwit {
 	font-family: Verdana, Geneva, sans-serif;
