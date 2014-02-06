@@ -1,8 +1,3 @@
-
-<?php
-include 'templates/header.php';
-?>
-  
 <div id="tekstwrapper">
   <div id="tekstwrapperlinks">
       <div id="onderheaderlinks" left="10px">
@@ -107,7 +102,7 @@ en&nbsp;verzekeringsrecht</a> <span class="blauwetekst">(0)</span></td>
   
   <a href="<?php echo site_url("Adverteren"); ?>">Adverteren op Epleidooi.nl</a><br />
       
-  <a href="<?php echo site_url("FAQ"); ?>">Veel gestelde vragen</a><br />
+  <a href="<?php echo site_url("Main/FAQ"); ?>">Veel gestelde vragen</a><br />
       
   <a href="<?php echo site_url("Contact"); ?>">Contact</a></div>
     </div>
@@ -144,7 +139,3 @@ en&nbsp;verzekeringsrecht</a> <span class="blauwetekst">(0)</span></td>
     <div id="advertentieblokje"><?php echo img($image_advertentie);?></div>
     </div>
 </div>
-</div>
-    <?php
-include 'templates/footer.php';
-?>

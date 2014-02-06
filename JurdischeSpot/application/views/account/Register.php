@@ -1,11 +1,8 @@
-<?php
-include 'templates/header.php';
-?>
-  
-  <div id="regblock"><span class="koptekst">Inschrijving Advocaat</span><br />
+<div id="regblock">
+    <span class="koptekst">Inschrijving Advocaat</span>
     <br />
-<form id='register' action='register.php' method='post'
-    accept-charset='UTF-8'>
+    <br />
+<form action= method='post' accept-charset='UTF-8'>
 
 
 <input type='hidden' name='submitted' id='submitted' value='1'/>
@@ -14,10 +11,10 @@ include 'templates/header.php';
 <br>
 <label for='email' >Email Address*:</label>
 <input type='text' name='email' id='email' maxlength="50" />
- <br>
+<br>
 <label for='username' >UserName*:</label>
 <input type='text' name='username' id='username' maxlength="50" />
- <br>
+<br>
 <label for='password' >Password*:</label>
 <input type='password' name='password' id='password' maxlength="50" />
 <br>
@@ -27,11 +24,6 @@ include 'templates/header.php';
       <a href="index.php">Go Back</a></span></div>
  
 </div>
-  <div id="advertentiebalk">
-    <div id="advertentieblokje"><img src="images/advertentie.jpg" width="170" height="546" /></div>
-    </div>
+<div id="advertentiebalk">
+  <div id="advertentieblokje"><img src="images/advertentie.jpg" width="170" height="546" /></div>
 </div>
-</div>
- <?php
-include 'templates/footer.php';
-?>

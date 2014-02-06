@@ -106,8 +106,8 @@ $image_advertentie = array(
     <div id="headerrechtsbuffer"></div>
     <div class="abovelist" id="menuwrapper">
     </ul>
-      </li><a href="<?php echo site_url("Test"); ?>">Home</a></li>
-      </li><a href="<?php echo site_url("Hoe_het_werkt"); ?>">Hoe het werkt</a></li>
+      </li><a href="<?php echo site_url("Main"); ?>">Home</a></li>
+      </li><a href="<?php echo site_url("Main/Hoe_het_werkt"); ?>">Hoe het werkt</a></li>
       </li><a href="<?php echo site_url("Zaak_plaatsen"); ?>">Zaak plaatsen</a></li>
       </li><a href="<?php echo site_url("Mijn_zaken"); ?>">Mijn zaken</a></li>
       </li><a href="<?php echo site_url("Register_Advocaat"); ?>">Inschrijving advocaat</a></li>

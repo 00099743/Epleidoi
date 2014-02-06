@@ -1,9 +1,6 @@
-
-<?php
-include 'templates/header.php';
-?>
-  <div id="Regblock
-       "><span class="koptekst">Hoe het werkt?</span><br />
+<div id="Regblock">
+    <span class="koptekst">Hoe het werkt?</span>
+    <br />
     <br />
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tincidunt sem id sollicitudin pellentesque. Etiam elit dui, consectetur eget condimentum vitae, commodo pulvinar elit. Donec pharetra orci vel egestas dignissim. Nulla sed neque non felis placerat venenatis. Cras iaculis sit amet massa et commodo. Donec rhoncus, orci eget dictum sollicitudin, velit nibh hendrerit justo, vel porttitor neque felis ac massa. Ut viverra tellus justo, quis imperdiet tortor laoreet vitae. Fusce ultricies vestibulum bibendum. Nunc eleifend lobortis tincidunt. Maecenas tempor diam ante, eu tempus lorem placerat ut. Quisque venenatis eu massa quis adipiscing.
 
@@ -19,8 +16,3 @@ Nam libero mi, auctor sagittis mi at, lobortis convallis arcu. Mauris sagittis p
   <div id="advertentiebalk">
     <div id="advertentieblokje"><img src="images/advertentie.jpg" width="170" height="546" /></div>
     </div>
-</div>
-</div>
- <?php
-include 'templates/footer.php';
-?>
